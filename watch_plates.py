@@ -115,6 +115,7 @@ def main():
         time.sleep(REQUEST_DELAY_SECONDS)
 
     save_state(state)
+    send_discord(f"🟢 KiwiPlates watcher ran. Checked {len(plates)} plates.")
 
     if newly_available:
         msg = "🚨 **KiwiPlates now AVAILABLE:** " + ", ".join(newly_available)
