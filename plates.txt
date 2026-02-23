@@ -23,5 +23,3 @@ XF
 67
 72
 94
-testz3
-testz2
