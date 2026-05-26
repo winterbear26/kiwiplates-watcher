@@ -1,157 +1,157 @@
 {
   "47": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "49": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "4Q": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "54": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "56": {
-    "available": null,
-    "last_seen": "2026-05-26 14:29:13 UTC",
-    "reason": "ERROR: 500 Server Error: Internal Server Error for url: https://api.kiwiplates.nz/api/combination/v2/56/?vehicleTypeId=1&leadId=0&email="
+    "available": false,
+    "last_seen": "2026-05-26 17:41:50 UTC",
+    "reason": "COMBINATION_IS_RESERVED"
   },
   "57": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "64": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "65": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "67": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "6E": {
-    "available": null,
-    "last_seen": "2026-05-26 14:29:13 UTC",
-    "reason": "ERROR: 500 Server Error: Internal Server Error for url: https://api.kiwiplates.nz/api/combination/v2/6E/?vehicleTypeId=1&leadId=0&email="
+    "available": false,
+    "last_seen": "2026-05-26 17:41:50 UTC",
+    "reason": "COMBINATION_IS_RESERVED"
   },
   "72": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "94": {
-    "available": null,
-    "last_seen": "2026-05-26 14:29:13 UTC",
-    "reason": "ERROR: 500 Server Error: Internal Server Error for url: https://api.kiwiplates.nz/api/combination/v2/94/?vehicleTypeId=1&leadId=0&email="
+    "available": false,
+    "last_seen": "2026-05-26 17:41:50 UTC",
+    "reason": "COMBINATION_IS_RESERVED"
   },
   "C7": {
-    "available": null,
-    "last_seen": "2026-05-26 14:29:13 UTC",
-    "reason": "ERROR: 500 Server Error: Internal Server Error for url: https://api.kiwiplates.nz/api/combination/v2/C7/?vehicleTypeId=1&leadId=0&email="
+    "available": false,
+    "last_seen": "2026-05-26 17:41:50 UTC",
+    "reason": "COMBINATION_IS_RESERVED"
   },
   "CR": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "CX": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "F8": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "FC": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "FK": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "FS": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "FU": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "G4": {
-    "available": null,
-    "last_seen": "2026-05-26 14:29:13 UTC",
-    "reason": "ERROR: 500 Server Error: Internal Server Error for url: https://api.kiwiplates.nz/api/combination/v2/G4/?vehicleTypeId=1&leadId=0&email="
+    "available": false,
+    "last_seen": "2026-05-26 17:41:50 UTC",
+    "reason": "COMBINATION_IS_RESERVED"
   },
   "G5": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "GS": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "JZ": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "K5": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "L3": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "L6": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_BANNED"
   },
   "LR": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "Q4": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "QK": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "RZ": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "T8A2B": {
@@ -186,12 +186,12 @@
   },
   "XE": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   },
   "XF": {
     "available": false,
-    "last_seen": "2026-05-26 14:29:13 UTC",
+    "last_seen": "2026-05-26 17:41:50 UTC",
     "reason": "COMBINATION_IS_RESERVED"
   }
 }
